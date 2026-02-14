@@ -1,5 +1,6 @@
 # 💫 About Me:
-i,m a  student <br>i am current learning backend like mongoDb<br>i am belonging from a domian of  cloud where i alredy knew about aws, microsoft azure, docker , deveops, kubernetes
+<br>I’m Amrit Raj,<br> A B.tech CSE student passionate about Cloud Computing, focused on building secure, scalable solutions using technologies like AWS and DevOps.
+
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m Amrit Raj,<br> A B.tech CSE student passionate about Cloud Computing, focused on building secure, scalable solutions using technologies like AWS and DevOps.
+<br>I’m Amrit Raj,<br> A b.tech CSE student passionate about Cloud Computing, focused on building secure, scalable solutions using technologies like AWS.
 
 
 

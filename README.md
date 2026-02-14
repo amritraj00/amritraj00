@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m Amrit Raj,<br> A b.tech CSE student passionate about Cloud Computing, focused on building secure, scalable solutions using technologies like AWS.
+I’m a 3rd year B.Tech Computer Science student with a strong interest in Cloud Computing and scalable system design. I enjoy building secure and high-performance applications using AWS services like EC2, S3, RDS, IAM, and VPC, along with frontend development in React. I actively work on cloud-based architectures and problem-solving using Data Structures and Algorithms. Currently, I’m developing projects such as a Missing Person Identifier using Trees and Hashing and designing secure cloud infrastructures. I’m passionate about continuous learning and building real-world, production-ready solutions.
 
 
 
